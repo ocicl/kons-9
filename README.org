@@ -4,6 +4,6 @@ Common Lisp 3D Graphics Project
 
 |---------+--------------------------------------------|
 | source  | git:https://github.com/kaveh808/kons-9.git |
-| commit  | b2dbc7f                                    |
+| commit  | 535050b                                    |
 | systems | kons-9                                     |
 |---------+--------------------------------------------|
